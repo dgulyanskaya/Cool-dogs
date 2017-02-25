@@ -1,0 +1,32 @@
+h1{
+	color: pink;
+	font-size:57px;
+	font-family: cursive;
+}
+h4{
+	color: pink;
+	font-size: 30px;
+	font-family: cursive;
+}
+p{
+	color: pink;
+	font-size: 50px;
+	font-family: cursive;
+}
+li{
+	color: silver;
+	font-weight: bold;
+	font-family: cursive;
+
+}
+img{
+	border-color:pink;
+	border:10px;
+	border-style:ridge;
+	margin-left: 10%;
+
+}
+
+body{
+	background-image:all;
+}
